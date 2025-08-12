@@ -65,5 +65,23 @@ Complete other parameters as needed, then click "Buy Now"
 ### Using Langflow tool
 **IP+7860访问UI**
 
+![](images/langflow1.png)
+
+
+
+## 点击  Create first flow，选择一个模板快速开始
+
+![](images/langflow2.png)
+
+
+
+![](images/langflow3.png)
+
+## 配置模型参数
+
+![](images/langflow4.png)
+
+### 参考文档
+
 ### Reference Documentation
 [Langflow  Documentation](l https://docs.langflow.org/)
